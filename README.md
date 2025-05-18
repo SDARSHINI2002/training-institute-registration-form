@@ -1,4 +1,4 @@
-Training Institute Registration Form
+Course Registration Form
 
 A simple web-based Training Institute Registration Form built using HTML, allowing users to submit their basic details and select a course. This form can be used for educational or training program sign-ups and includes an option to upload a resume.
 
